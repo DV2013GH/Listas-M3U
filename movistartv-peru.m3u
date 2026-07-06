@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F27%2F21277546_686A447459BDB5C2.png&height=60&resize=RATIO&format=WEBP" group-title="Canales Nacionales", LATINA HD (2)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
