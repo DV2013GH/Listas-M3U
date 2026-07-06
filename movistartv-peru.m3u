@@ -10,7 +10,7 @@ http://45.171.108.253:8888/AMERICA/index.m3u8
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F13%2F9136179_DC8D93524C1F3E11.png&height=60&resize=RATIO&format=WEBP" group-title="Canales Nacionales", TV PERU HD (7)
-http://8.243.126.131:8000/play/a01s/index.m3u8?hls
+http://8.243.126.131:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F07%2F52%2F7527586_32E6A6179D3F9DDF.png&height=60&resize=RATIO&format=WEBP" group-title="Canales Nacionales", ATV HD (9)
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
